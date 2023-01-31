@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/invoice-with-validation/static/css/main.915c5e88.css",
+    "main.js": "/invoice-with-validation/static/js/main.c3889ffe.js",
+    "static/js/787.f055211e.chunk.js": "/invoice-with-validation/static/js/787.f055211e.chunk.js",
+    "static/media/2.png": "/invoice-with-validation/static/media/2.6e80a0c7d6678d356bfe.png",
+    "index.html": "/invoice-with-validation/index.html",
+    "main.915c5e88.css.map": "/invoice-with-validation/static/css/main.915c5e88.css.map",
+    "main.c3889ffe.js.map": "/invoice-with-validation/static/js/main.c3889ffe.js.map",
+    "787.f055211e.chunk.js.map": "/invoice-with-validation/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915c5e88.css",
+    "static/js/main.c3889ffe.js"
+  ]
+}
